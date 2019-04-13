@@ -1,4 +1,4 @@
-### My build of st - the simple (suckless) terminal
+## My build of st - the simple (suckless) terminal
 
 + Transparency/alpha.
 + Default font is terminal "Liberation Mono" at 15pt.
@@ -13,18 +13,17 @@
 + Paste -- Ctrl+Shift+v
 
 
-#### Installation
+### Installation
 
 ```
 make
 sudo make install
+make clean
 ```
-#### Screenshots
 
-<p align="center">
- <img src="https://github.com/rt072/st/blob/dev/screenshots/1.png">
-</p>
-<p align="center">
- <img src="https://github.com/rt072/st/blob/dev/screenshots/2.png">
-</p>
 
+### Screenshots
+
+![screenshot](./.screenshots/1.png)
+
+![screenshot](./.screenshots/2.png)
