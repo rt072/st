@@ -25,5 +25,15 @@ make clean
 ### Screenshots
 
 ![screenshot](./.screenshots/1.png)
-
 ![screenshot](./.screenshots/2.png)
+
+
+### Patches
+
+1. alpha
+2. clipboard
+3. scrollback
+4. scrollback-mouse
+5. scrollback-mouse-altscreen
+6. xresources
+
